@@ -1,0 +1,5 @@
+td {
+    border: var(--tamanho-borda), var(--cor-borda), var(--tipo-borda);
+    width: 100px;
+    height: 100px;
+}
